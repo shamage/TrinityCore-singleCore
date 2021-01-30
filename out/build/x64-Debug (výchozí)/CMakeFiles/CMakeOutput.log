@@ -1,0 +1,616 @@
+The system is: Windows - 10.0.19042 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/VC/Tools/MSVC/14.28.29333/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Optimalizující kompilátor C/C++ společnosti Microsoft (R) verze 19.28.29336 pro procesory x64
+Copyright (C) Microsoft Corporation. Všechna práva vyhrazena.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.28.29336.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "E:/Source/Repos/TrinityCore Branch 9.0.2.37176/out/build/x64-Debug (výchozí)/CMakeFiles/3.18.20081302-MSVC_2/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/VC/Tools/MSVC/14.28.29333/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Optimalizující kompilátor C/C++ společnosti Microsoft (R) verze 19.28.29336 pro procesory x64
+Copyright (C) Microsoft Corporation. Všechna práva vyhrazena.
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.28.29336.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "E:/Source/Repos/TrinityCore Branch 9.0.2.37176/out/build/x64-Debug (výchozí)/CMakeFiles/3.18.20081302-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: E:/Source/Repos/TrinityCore Branch 9.0.2.37176/out/build/x64-Debug (výchozí)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_58112 && [1/2] Building C object CMakeFiles\cmTC_58112.dir\CMakeCCompilerABI.c.obj
+Poznámka: Včetně souboru: C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCompilerABI.h
+[2/2] Linking C executable cmTC_58112.exe
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: E:/Source/Repos/TrinityCore Branch 9.0.2.37176/out/build/x64-Debug (výchozí)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_3f99f && [1/2] Building CXX object CMakeFiles\cmTC_3f99f.dir\CMakeCXXCompilerABI.cpp.obj
+Poznámka: Včetně souboru: C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCompilerABI.h
+[2/2] Linking CXX executable cmTC_3f99f.exe
+
+
+
+Performing C++ SOURCE FILE Test boost_filesystem_copy_links_without_NO_SCOPED_ENUM succeeded with the following output:
+Change Dir: E:/Source/Repos/TrinityCore Branch 9.0.2.37176/out/build/x64-Debug (výchozí)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_cea4e && [1/2] Building CXX object CMakeFiles\cmTC_cea4e.dir\src.cxx.obj
+cl: příkazový řádek warning D9002 : ignoruje se neznámý parametr -std=c++11
+Poznámka: Včetně souboru: C:\local\boost_1_72_0\boost/filesystem/path.hpp
+Poznámka: Včetně souboru:  C:\local\boost_1_72_0\boost/config.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/config/user.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/config/detail/select_compiler_config.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/config/compiler/visualc.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/config/pragma_message.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/config/helper_macros.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/config/detail/select_stdlib_config.hpp
+Poznámka: Včetně souboru:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\cstddef
+Poznámka: Včetně souboru:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\yvals_core.h
+Poznámka: Včetně souboru:      C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\vcruntime.h
+Poznámka: Včetně souboru:       C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\sal.h
+Poznámka: Včetně souboru:        C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\concurrencysal.h
+Poznámka: Včetně souboru:       C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\vadefs.h
+Poznámka: Včetně souboru:      C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xkeycheck.h
+Poznámka: Včetně souboru:     C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stddef.h
+Poznámka: Včetně souboru:      C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt.h
+Poznámka: Včetně souboru:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xtr1common
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/config/stdlib/dinkumware.hpp
+Poznámka: Včetně souboru:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\typeinfo
+Poznámka: Včetně souboru:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\exception
+Poznámka: Včetně souboru:      C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\yvals.h
+Poznámka: Včetně souboru:       C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\crtdbg.h
+Poznámka: Včetně souboru:        C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\vcruntime_new_debug.h
+Poznámka: Včetně souboru:         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\vcruntime_new.h
+Poznámka: Včetně souboru:       C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\crtdefs.h
+Poznámka: Včetně souboru:       C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\use_ansi.h
+Poznámka: Včetně souboru:      C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\type_traits
+Poznámka: Včetně souboru:       C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xstddef
+Poznámka: Včetně souboru:        C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\cstdlib
+Poznámka: Včetně souboru:         C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
+Poznámka: Včetně souboru:          C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_math.h
+Poznámka: Včetně souboru:         C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stdlib.h
+Poznámka: Včetně souboru:          C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_malloc.h
+Poznámka: Včetně souboru:          C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_search.h
+Poznámka: Včetně souboru:          C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstdlib.h
+Poznámka: Včetně souboru:          C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\limits.h
+Poznámka: Včetně souboru:        C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\initializer_list
+Poznámka: Včetně souboru:      C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\malloc.h
+Poznámka: Včetně souboru:      C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\vcruntime_exception.h
+Poznámka: Včetně souboru:       C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\eh.h
+Poznámka: Včetně souboru:        C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_terminate.h
+Poznámka: Včetně souboru:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\vcruntime_typeinfo.h
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/config/detail/select_platform_config.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/config/platform/win32.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/config/detail/suffix.hpp
+Poznámka: Včetně souboru:  C:\local\boost_1_72_0\boost/assert.hpp
+Poznámka: Včetně souboru:   C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h
+Poznámka: Včetně souboru:  C:\local\boost_1_72_0\boost/filesystem/config.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/system/api_config.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/detail/workaround.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/config/workaround.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/config/auto_link.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/version.hpp
+Poznámka: Včetně souboru:  C:\local\boost_1_72_0\boost/filesystem/path_traits.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/type_traits/is_array.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/type_traits/integral_constant.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/type_traits/decay.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/type_traits/is_function.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/type_traits/detail/config.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/type_traits/detail/is_function_cxx_11.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/type_traits/remove_bounds.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/type_traits/remove_extent.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/type_traits/add_pointer.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/type_traits/remove_reference.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/type_traits/remove_cv.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/system/error_code.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/system/detail/config.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/cstdint.hpp
+Poznámka: Včetně souboru:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\stdint.h
+Poznámka: Včetně souboru:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\ostream
+Poznámka: Včetně souboru:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\ios
+Poznámka: Včetně souboru:      C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xlocnum
+Poznámka: Včetně souboru:       C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\climits
+Poznámka: Včetně souboru:       C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\cmath
+Poznámka: Včetně souboru:       C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\cstdio
+Poznámka: Včetně souboru:        C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stdio.h
+Poznámka: Včetně souboru:         C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstdio.h
+Poznámka: Včetně souboru:          C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_stdio_config.h
+Poznámka: Včetně souboru:       C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\iterator
+Poznámka: Včetně souboru:        C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\iosfwd
+Poznámka: Včetně souboru:         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\cstring
+Poznámka: Včetně souboru:          C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\string.h
+Poznámka: Včetně souboru:           C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memory.h
+Poznámka: Včetně souboru:            C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memcpy_s.h
+Poznámka: Včetně souboru:             C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\errno.h
+Poznámka: Včetně souboru:             C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\vcruntime_string.h
+Poznámka: Včetně souboru:           C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstring.h
+Poznámka: Včetně souboru:         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\cwchar
+Poznámka: Včetně souboru:          C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\wchar.h
+Poznámka: Včetně souboru:           C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wconio.h
+Poznámka: Včetně souboru:           C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wctype.h
+Poznámka: Včetně souboru:           C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wdirect.h
+Poznámka: Včetně souboru:           C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wio.h
+Poznámka: Včetně souboru:            C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_share.h
+Poznámka: Včetně souboru:           C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wprocess.h
+Poznámka: Včetně souboru:           C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wtime.h
+Poznámka: Včetně souboru:           C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\sys/stat.h
+Poznámka: Včetně souboru:            C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\sys/types.h
+Poznámka: Včetně souboru:        C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xutility
+Poznámka: Včetně souboru:         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\utility
+Poznámka: Včetně souboru:       C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\streambuf
+Poznámka: Včetně souboru:        C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xiosbase
+Poznámka: Včetně souboru:         C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\share.h
+Poznámka: Včetně souboru:         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\system_error
+Poznámka: Včetně souboru:          C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\__msvc_system_error_abi.hpp
+Poznámka: Včetně souboru:          C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\cerrno
+Poznámka: Včetně souboru:          C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\stdexcept
+Poznámka: Včetně souboru:           C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xstring
+Poznámka: Včetně souboru:            C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xmemory
+Poznámka: Včetně souboru:             C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\cstdint
+Poznámka: Včetně souboru:             C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\limits
+Poznámka: Včetně souboru:              C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\cfloat
+Poznámka: Včetně souboru:               C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\float.h
+Poznámka: Včetně souboru:              C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\intrin0.h
+Poznámka: Včetně souboru:              C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\isa_availability.h
+Poznámka: Včetně souboru:             C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\new
+Poznámka: Včetně souboru:             C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xatomic.h
+Poznámka: Včetně souboru:          C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xcall_once.h
+Poznámka: Včetně souboru:          C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xerrc.h
+Poznámka: Včetně souboru:          C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\atomic
+Poznámka: Včetně souboru:           C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xthreads.h
+Poznámka: Včetně souboru:            C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xtimec.h
+Poznámka: Včetně souboru:             C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\time.h
+Poznámka: Včetně souboru:         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xlocale
+Poznámka: Včetně souboru:          C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\memory
+Poznámka: Včetně souboru:          C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xfacet
+Poznámka: Včetně souboru:          C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xlocinfo
+Poznámka: Včetně souboru:           C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xlocinfo.h
+Poznámka: Včetně souboru:            C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\ctype.h
+Poznámka: Včetně souboru:            C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\locale.h
+Poznámka: Včetně souboru:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\string
+Poznámka: Včetně souboru:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\cctype
+Poznámka: Včetně souboru:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\functional
+Poznámka: Včetně souboru:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\tuple
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/cerrno.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/system/detail/generic_category.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/system/detail/system_category_win32.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/winapi/error_codes.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/winapi/basic_types.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/winapi/config.hpp
+Poznámka: Včetně souboru:        C:\local\boost_1_72_0\boost/predef/version_number.h
+Poznámka: Včetně souboru:        C:\local\boost_1_72_0\boost/predef/platform.h
+Poznámka: Včetně souboru:         C:\local\boost_1_72_0\boost/predef/platform/android.h
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/predef/make.h
+Poznámka: Včetně souboru:           C:\local\boost_1_72_0\boost/predef/detail/test.h
+Poznámka: Včetně souboru:         C:\local\boost_1_72_0\boost/predef/platform/cloudabi.h
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/predef/make.h
+Poznámka: Včetně souboru:         C:\local\boost_1_72_0\boost/predef/platform/mingw.h
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/predef/make.h
+Poznámka: Včetně souboru:         C:\local\boost_1_72_0\boost/predef/platform/mingw32.h
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/predef/make.h
+Poznámka: Včetně souboru:         C:\local\boost_1_72_0\boost/predef/platform/mingw64.h
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/predef/make.h
+Poznámka: Včetně souboru:         C:\local\boost_1_72_0\boost/predef/platform/windows_uwp.h
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/predef/make.h
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/predef/os/windows.h
+Poznámka: Včetně souboru:           C:\local\boost_1_72_0\boost/predef/make.h
+Poznámka: Včetně souboru:           C:\local\boost_1_72_0\boost/predef/detail/os_detected.h
+Poznámka: Včetně souboru:          C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\ntverp.h
+Poznámka: Včetně souboru:           C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\ntverp.ver
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/predef/detail/platform_detected.h
+Poznámka: Včetně souboru:          C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\winapifamily.h
+Poznámka: Včetně souboru:           C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\winpackagefamily.h
+Poznámka: Včetně souboru:         C:\local\boost_1_72_0\boost/predef/platform/windows_desktop.h
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/predef/make.h
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/predef/os/windows.h
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/predef/platform/windows_uwp.h
+Poznámka: Včetně souboru:         C:\local\boost_1_72_0\boost/predef/platform/windows_phone.h
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/predef/make.h
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/predef/os/windows.h
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/predef/platform/windows_uwp.h
+Poznámka: Včetně souboru:         C:\local\boost_1_72_0\boost/predef/platform/windows_server.h
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/predef/make.h
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/predef/os/windows.h
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/predef/platform/windows_uwp.h
+Poznámka: Včetně souboru:         C:\local\boost_1_72_0\boost/predef/platform/windows_store.h
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/predef/make.h
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/predef/os/windows.h
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/predef/platform/windows_uwp.h
+Poznámka: Včetně souboru:         C:\local\boost_1_72_0\boost/predef/platform/windows_system.h
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/predef/make.h
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/predef/os/windows.h
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/predef/platform/windows_uwp.h
+Poznámka: Včetně souboru:         C:\local\boost_1_72_0\boost/predef/platform/windows_runtime.h
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/predef/make.h
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/predef/os/windows.h
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/predef/platform/windows_phone.h
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/predef/platform/windows_store.h
+Poznámka: Včetně souboru:         C:\local\boost_1_72_0\boost/predef/platform/ios.h
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/predef/os/ios.h
+Poznámka: Včetně souboru:           C:\local\boost_1_72_0\boost/predef/make.h
+Poznámka: Včetně souboru:       C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\winerror.h
+Poznámka: Včetně souboru:        C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\specstrings.h
+Poznámka: Včetně souboru:         C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\specstrings_strict.h
+Poznámka: Včetně souboru:          C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\specstrings_undef.h
+Poznámka: Včetně souboru:         C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\driverspecs.h
+Poznámka: Včetně souboru:          C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared\sdv_driverspecs.h
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/winapi/error_handling.hpp
+Poznámka: Včetně souboru:      C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\stdarg.h
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/winapi/get_last_error.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/winapi/character_code_conversion.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/winapi/local_memory.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/system/detail/std_interoperability.hpp
+Poznámka: Včetně souboru:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\map
+Poznámka: Včetně souboru:      C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xtree
+Poznámka: Včetně souboru:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\mutex
+Poznámka: Včetně souboru:      C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\chrono
+Poznámka: Včetně souboru:       C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\ratio
+Poznámka: Včetně souboru:      C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\thread
+Poznámka: Včetně souboru:       C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\process.h
+Poznámka: Včetně souboru:        C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_startup.h
+Poznámka: Včetně souboru:         C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
+Poznámka: Včetně souboru:         C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\vcruntime_startup.h
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/core/enable_if.hpp
+Poznámka: Včetně souboru:   C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\vector
+Poznámka: Včetně souboru:   C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\list
+Poznámka: Včetně souboru:   C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\locale
+Poznámka: Včetně souboru:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xlocbuf
+Poznámka: Včetně souboru:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xlocmes
+Poznámka: Včetně souboru:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xlocmon
+Poznámka: Včetně souboru:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\xloctime
+Poznámka: Včetně souboru:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\ctime
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/assert.hpp
+Poznámka: Včetně souboru:    C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/config/abi_prefix.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/config/abi/msvc_prefix.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/config/abi_suffix.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/config/abi/msvc_suffix.hpp
+Poznámka: Včetně souboru:  C:\local\boost_1_72_0\boost/system/system_error.hpp
+Poznámka: Včetně souboru:   C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\cassert
+Poznámka: Včetně souboru:    C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h
+Poznámka: Včetně souboru:  C:\local\boost_1_72_0\boost/iterator/iterator_facade.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/iterator/interoperable.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/mpl/bool.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/mpl/bool_fwd.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/aux_/adl_barrier.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/mpl/aux_/config/adl.hpp
+Poznámka: Včetně souboru:        C:\local\boost_1_72_0\boost/mpl/aux_/config/msvc.hpp
+Poznámka: Včetně souboru:        C:\local\boost_1_72_0\boost/mpl/aux_/config/intel.hpp
+Poznámka: Včetně souboru:        C:\local\boost_1_72_0\boost/mpl/aux_/config/gcc.hpp
+Poznámka: Včetně souboru:        C:\local\boost_1_72_0\boost/mpl/aux_/config/workaround.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/mpl/integral_c_tag.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/aux_/config/static_constant.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/mpl/or.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/mpl/aux_/config/use_preprocessed.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/mpl/aux_/nested_type_wknd.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/mpl/aux_/na_spec.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/lambda_fwd.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/mpl/void_fwd.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/mpl/aux_/na.hpp
+Poznámka: Včetně souboru:        C:\local\boost_1_72_0\boost/mpl/aux_/na_fwd.hpp
+Poznámka: Včetně souboru:        C:\local\boost_1_72_0\boost/mpl/aux_/config/ctps.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/mpl/aux_/config/lambda.hpp
+Poznámka: Včetně souboru:        C:\local\boost_1_72_0\boost/mpl/aux_/config/ttp.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/mpl/int.hpp
+Poznámka: Včetně souboru:        C:\local\boost_1_72_0\boost/mpl/int_fwd.hpp
+Poznámka: Včetně souboru:         C:\local\boost_1_72_0\boost/mpl/aux_/nttp_decl.hpp
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/mpl/aux_/config/nttp.hpp
+Poznámka: Včetně souboru:        C:\local\boost_1_72_0\boost/mpl/aux_/integral_wrapper.hpp
+Poznámka: Včetně souboru:         C:\local\boost_1_72_0\boost/mpl/aux_/static_cast.hpp
+Poznámka: Včetně souboru:         C:\local\boost_1_72_0\boost/preprocessor/cat.hpp
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/preprocessor/config/config.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/mpl/aux_/lambda_arity_param.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/mpl/aux_/template_arity_fwd.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/aux_/arity.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/mpl/aux_/config/dtp.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/aux_/preprocessor/params.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/mpl/aux_/config/preprocessor.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/preprocessor/comma_if.hpp
+Poznámka: Včetně souboru:        C:\local\boost_1_72_0\boost/preprocessor/punctuation/comma_if.hpp
+Poznámka: Včetně souboru:         C:\local\boost_1_72_0\boost/preprocessor/control/if.hpp
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/preprocessor/control/iif.hpp
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/preprocessor/logical/bool.hpp
+Poznámka: Včetně souboru:         C:\local\boost_1_72_0\boost/preprocessor/facilities/empty.hpp
+Poznámka: Včetně souboru:         C:\local\boost_1_72_0\boost/preprocessor/punctuation/comma.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/preprocessor/repeat.hpp
+Poznámka: Včetně souboru:        C:\local\boost_1_72_0\boost/preprocessor/repetition/repeat.hpp
+Poznámka: Včetně souboru:         C:\local\boost_1_72_0\boost/preprocessor/debug/error.hpp
+Poznámka: Včetně souboru:         C:\local\boost_1_72_0\boost/preprocessor/detail/auto_rec.hpp
+Poznámka: Včetně souboru:         C:\local\boost_1_72_0\boost/preprocessor/tuple/eat.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/preprocessor/inc.hpp
+Poznámka: Včetně souboru:        C:\local\boost_1_72_0\boost/preprocessor/arithmetic/inc.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/aux_/preprocessor/enum.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/aux_/preprocessor/def_params_tail.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/mpl/limits/arity.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/preprocessor/logical/and.hpp
+Poznámka: Včetně souboru:        C:\local\boost_1_72_0\boost/preprocessor/logical/bitand.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/preprocessor/identity.hpp
+Poznámka: Včetně souboru:        C:\local\boost_1_72_0\boost/preprocessor/facilities/identity.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/preprocessor/empty.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/preprocessor/arithmetic/add.hpp
+Poznámka: Včetně souboru:        C:\local\boost_1_72_0\boost/preprocessor/arithmetic/dec.hpp
+Poznámka: Včetně souboru:        C:\local\boost_1_72_0\boost/preprocessor/control/while.hpp
+Poznámka: Včetně souboru:         C:\local\boost_1_72_0\boost/preprocessor/detail/auto_rec.hpp
+Poznámka: Včetně souboru:         C:\local\boost_1_72_0\boost/preprocessor/list/fold_left.hpp
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/preprocessor/control/while.hpp
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/preprocessor/detail/auto_rec.hpp
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/preprocessor/list/detail/fold_left.hpp
+Poznámka: Včetně souboru:           C:\local\boost_1_72_0\boost/preprocessor/control/expr_iif.hpp
+Poznámka: Včetně souboru:           C:\local\boost_1_72_0\boost/preprocessor/list/adt.hpp
+Poznámka: Včetně souboru:            C:\local\boost_1_72_0\boost/preprocessor/detail/is_binary.hpp
+Poznámka: Včetně souboru:             C:\local\boost_1_72_0\boost/preprocessor/detail/check.hpp
+Poznámka: Včetně souboru:            C:\local\boost_1_72_0\boost/preprocessor/logical/compl.hpp
+Poznámka: Včetně souboru:         C:\local\boost_1_72_0\boost/preprocessor/list/fold_right.hpp
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/preprocessor/control/while.hpp
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/preprocessor/detail/auto_rec.hpp
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/preprocessor/list/detail/fold_right.hpp
+Poznámka: Včetně souboru:           C:\local\boost_1_72_0\boost/preprocessor/list/reverse.hpp
+Poznámka: Včetně souboru:         C:\local\boost_1_72_0\boost/preprocessor/control/detail/msvc/while.hpp
+Poznámka: Včetně souboru:        C:\local\boost_1_72_0\boost/preprocessor/tuple/elem.hpp
+Poznámka: Včetně souboru:         C:\local\boost_1_72_0\boost/preprocessor/facilities/expand.hpp
+Poznámka: Včetně souboru:         C:\local\boost_1_72_0\boost/preprocessor/facilities/overload.hpp
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/preprocessor/variadic/size.hpp
+Poznámka: Včetně souboru:         C:\local\boost_1_72_0\boost/preprocessor/tuple/rem.hpp
+Poznámka: Včetně souboru:          C:\local\boost_1_72_0\boost/preprocessor/tuple/detail/is_single_return.hpp
+Poznámka: Včetně souboru:           C:\local\boost_1_72_0\boost/preprocessor/facilities/is_1.hpp
+Poznámka: Včetně souboru:            C:\local\boost_1_72_0\boost/preprocessor/facilities/is_empty.hpp
+Poznámka: Včetně souboru:             C:\local\boost_1_72_0\boost/preprocessor/facilities/is_empty_variadic.hpp
+Poznámka: Včetně souboru:              C:\local\boost_1_72_0\boost/preprocessor/punctuation/is_begin_parens.hpp
+Poznámka: Včetně souboru:               C:\local\boost_1_72_0\boost/preprocessor/punctuation/detail/is_begin_parens.hpp
+Poznámka: Včetně souboru:              C:\local\boost_1_72_0\boost/preprocessor/facilities/detail/is_empty.hpp
+Poznámka: Včetně souboru:           C:\local\boost_1_72_0\boost/preprocessor/tuple/size.hpp
+Poznámka: Včetně souboru:         C:\local\boost_1_72_0\boost/preprocessor/variadic/elem.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/preprocessor/arithmetic/sub.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/aux_/config/eti.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/aux_/config/overload_resolution.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/mpl/aux_/lambda_support.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/mpl/aux_/include_preprocessed.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/aux_/config/compiler.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/preprocessor/stringize.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/aux_/preprocessed/plain/or.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/type_traits/is_convertible.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/type_traits/intrinsics.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/type_traits/is_complete.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/type_traits/declval.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/type_traits/add_rvalue_reference.hpp
+Poznámka: Včetně souboru:        C:\local\boost_1_72_0\boost/type_traits/is_void.hpp
+Poznámka: Včetně souboru:        C:\local\boost_1_72_0\boost/type_traits/is_reference.hpp
+Poznámka: Včetně souboru:         C:\local\boost_1_72_0\boost/type_traits/is_lvalue_reference.hpp
+Poznámka: Včetně souboru:         C:\local\boost_1_72_0\boost/type_traits/is_rvalue_reference.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/type_traits/detail/yes_no_type.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/static_assert.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/type_traits/is_same.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/iterator/detail/config_def.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/iterator/detail/config_undef.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/iterator/iterator_traits.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/iterator/iterator_categories.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/iterator/detail/config_def.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/mpl/eval_if.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/mpl/if.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/aux_/value_wknd.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/mpl/aux_/config/integral.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/mpl/identity.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/mpl/placeholders.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/mpl/arg.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/arg_fwd.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/aux_/na_assert.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/mpl/assert.hpp
+Poznámka: Včetně souboru:        C:\local\boost_1_72_0\boost/mpl/not.hpp
+Poznámka: Včetně souboru:        C:\local\boost_1_72_0\boost/mpl/aux_/yes_no.hpp
+Poznámka: Včetně souboru:         C:\local\boost_1_72_0\boost/mpl/aux_/config/arrays.hpp
+Poznámka: Včetně souboru:        C:\local\boost_1_72_0\boost/mpl/aux_/config/gpu.hpp
+Poznámka: Včetně souboru:        C:\local\boost_1_72_0\boost/mpl/aux_/config/pp_counter.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/aux_/arity_spec.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/aux_/arg_typedef.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/aux_/include_preprocessed.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/mpl/aux_/preprocessed/plain/arg.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/mpl/aux_/include_preprocessed.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/aux_/preprocessed/plain/placeholders.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/iterator/detail/config_undef.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/iterator/detail/facade_iterator_category.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/core/use_default.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/mpl/and.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/mpl/aux_/include_preprocessed.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/aux_/preprocessed/plain/and.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/type_traits/is_const.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/iterator/detail/config_def.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/detail/indirect_traits.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/type_traits/is_pointer.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/type_traits/is_class.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/type_traits/is_volatile.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/type_traits/is_member_function_pointer.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/type_traits/detail/is_member_function_pointer_cxx_11.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/type_traits/is_member_pointer.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/type_traits/remove_pointer.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/detail/select_type.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/iterator/detail/config_undef.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/iterator/detail/enable_if.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/iterator/detail/config_def.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/iterator/detail/config_undef.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/core/addressof.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/type_traits/add_const.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/type_traits/add_lvalue_reference.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/type_traits/add_reference.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/type_traits/remove_const.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/type_traits/is_pod.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/type_traits/is_scalar.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/type_traits/is_arithmetic.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/type_traits/is_integral.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/type_traits/is_floating_point.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/type_traits/is_enum.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/mpl/always.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/mpl/aux_/preprocessor/default_params.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/mpl/apply.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/mpl/apply_fwd.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/mpl/aux_/include_preprocessed.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/aux_/preprocessed/plain/apply_fwd.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/mpl/apply_wrap.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/mpl/aux_/has_apply.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/has_xxx.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/mpl/aux_/type_wrapper.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/mpl/aux_/config/has_xxx.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/mpl/aux_/config/msvc_typename.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/preprocessor/array/elem.hpp
+Poznámka: Včetně souboru:        C:\local\boost_1_72_0\boost/preprocessor/array/data.hpp
+Poznámka: Včetně souboru:        C:\local\boost_1_72_0\boost/preprocessor/array/size.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/preprocessor/repetition/enum_params.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/preprocessor/repetition/enum_trailing_params.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/aux_/config/has_apply.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/mpl/aux_/msvc_never_true.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/mpl/aux_/include_preprocessed.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/aux_/preprocessed/plain/apply_wrap.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/mpl/placeholders.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/mpl/lambda.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/mpl/bind.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/bind_fwd.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/mpl/aux_/config/bind.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/mpl/aux_/include_preprocessed.hpp
+Poznámka: Včetně souboru:        C:\local\boost_1_72_0\boost/mpl/aux_/preprocessed/plain/bind_fwd.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/placeholders.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/next.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/mpl/next_prior.hpp
+Poznámka: Včetně souboru:        C:\local\boost_1_72_0\boost/mpl/aux_/common_name_wknd.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/protect.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/apply_wrap.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/aux_/include_preprocessed.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/mpl/aux_/preprocessed/plain/bind.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/mpl/aux_/full_lambda.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/bind_fwd.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/quote.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/mpl/void.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/mpl/aux_/has_type.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/mpl/aux_/config/bcc.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/mpl/aux_/include_preprocessed.hpp
+Poznámka: Včetně souboru:        C:\local\boost_1_72_0\boost/mpl/aux_/preprocessed/plain/quote.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/arg.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/aux_/template_arity.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/mpl/aux_/include_preprocessed.hpp
+Poznámka: Včetně souboru:        C:\local\boost_1_72_0\boost/mpl/aux_/preprocessed/plain/template_arity.hpp
+Poznámka: Včetně souboru:      C:\local\boost_1_72_0\boost/mpl/aux_/include_preprocessed.hpp
+Poznámka: Včetně souboru:       C:\local\boost_1_72_0\boost/mpl/aux_/preprocessed/plain/full_lambda.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/mpl/aux_/include_preprocessed.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/mpl/aux_/preprocessed/plain/apply.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/iterator/detail/config_def.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/iterator/detail/config_undef.hpp
+Poznámka: Včetně souboru:  C:\local\boost_1_72_0\boost/io/detail/quoted_manip.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/io/ios_state.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/io_fwd.hpp
+Poznámka: Včetně souboru:  C:\local\boost_1_72_0\boost/functional/hash_fwd.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/container_hash/hash_fwd.hpp
+Poznámka: Včetně souboru:  C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\cassert
+Poznámka: Včetně souboru:   C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h
+Poznámka: Včetně souboru:  C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\algorithm
+Poznámka: Včetně souboru:  C:\local\boost_1_72_0\boost/config/abi_prefix.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/config/abi/msvc_prefix.hpp
+Poznámka: Včetně souboru:  C:\local\boost_1_72_0\boost/config/abi_suffix.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/config/abi/msvc_suffix.hpp
+Poznámka: Včetně souboru: C:\local\boost_1_72_0\boost/filesystem/operations.hpp
+Poznámka: Včetně souboru:  C:\local\boost_1_72_0\boost/filesystem/file_status.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/detail/bitmask.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/cstdint.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/config/abi_prefix.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/config/abi/msvc_prefix.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/config/abi_suffix.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/config/abi/msvc_suffix.hpp
+Poznámka: Včetně souboru:  C:\local\boost_1_72_0\boost/filesystem/exception.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/smart_ptr/intrusive_ptr.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/assert.hpp
+Poznámka: Včetně souboru:     C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/smart_ptr/detail/sp_convertible.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/smart_ptr/detail/sp_nullptr_t.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/smart_ptr/detail/sp_noexcept.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/config/no_tr1/functional.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/smart_ptr/detail/operator_bool.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/smart_ptr/intrusive_ref_counter.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/smart_ptr/detail/atomic_count.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/smart_ptr/detail/sp_has_sync.hpp
+Poznámka: Včetně souboru:     C:\local\boost_1_72_0\boost/smart_ptr/detail/atomic_count_std_atomic.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/config/abi_prefix.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/config/abi/msvc_prefix.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/config/abi_suffix.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/config/abi/msvc_suffix.hpp
+Poznámka: Včetně souboru:  C:\local\boost_1_72_0\boost/filesystem/directory.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/assert.hpp
+Poznámka: Včetně souboru:    C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/core/scoped_enum.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/config/abi_prefix.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/config/abi/msvc_prefix.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/config/abi_suffix.hpp
+Poznámka: Včetně souboru:    C:\local\boost_1_72_0\boost/config/abi/msvc_suffix.hpp
+Poznámka: Včetně souboru:  C:\local\boost_1_72_0\boost/cstdint.hpp
+Poznámka: Včetně souboru:  C:\local\boost_1_72_0\boost/config/abi_prefix.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/config/abi/msvc_prefix.hpp
+Poznámka: Včetně souboru:  C:\local\boost_1_72_0\boost/config/abi_suffix.hpp
+Poznámka: Včetně souboru:   C:\local\boost_1_72_0\boost/config/abi/msvc_suffix.hpp
+[2/2] Linking CXX executable cmTC_cea4e.exe
+
+
+Source file was:
+
+  #include <boost/filesystem/path.hpp>
+  #include <boost/filesystem/operations.hpp>
+  int main() { boost::filesystem::copy_file(boost::filesystem::path(), boost::filesystem::path()); }
+Determining if the open exist passed with the following output:
+Change Dir: E:/Source/Repos/TrinityCore Branch 9.0.2.37176/out/build/x64-Debug (výchozí)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Professional/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_47cff && [1/2] Building C object CMakeFiles\cmTC_47cff.dir\CheckSymbolExists.c.obj
+Poznámka: Včetně souboru: C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\io.h
+Poznámka: Včetně souboru:  C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_io.h
+Poznámka: Včetně souboru:   C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_share.h
+Poznámka: Včetně souboru:    C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt.h
+Poznámka: Včetně souboru:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\vcruntime.h
+Poznámka: Včetně souboru:      C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\sal.h
+Poznámka: Včetně souboru:       C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\concurrencysal.h
+Poznámka: Včetně souboru:      C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29333\include\vadefs.h
+Poznámka: Včetně souboru:   C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wio.h
+[2/2] Linking C executable cmTC_47cff.exe
+
+
+File E:/Source/Repos/TrinityCore Branch 9.0.2.37176/out/build/x64-Debug (výchozí)/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <io.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef open
+  return ((int*)(&open))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
