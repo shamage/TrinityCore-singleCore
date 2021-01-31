@@ -22,8 +22,8 @@
 master | TEST
 :------------: | :------------:
 [![master Build Status](https://travis-ci.com/shamage/TrinityCore-singleCore.svg?token=U8SkayzfbAvhS4ECSQky&branch=main) |
-[![master Build status](https://ci.appveyor.com/api/projects/status/54d0u1fxe50ad80o/branch/master?svg=true)](https://ci.appveyor.com/project/DDuarte/trinitycore/branch/master) |
-[![Coverity Scan Build Status](https://scan.coverity.com/projects/435/badge.svg)](https://scan.coverity.com/projects/435) |
+[![master Build status](https://ci.appveyor.com/api/projects/status/54d0u1fxe50ad80o/branch/master?svg=true)](https://ci.appveyor.com/project/DDuarte/trinitycore/branch/master) 
+
 
 ## Introduction
 
