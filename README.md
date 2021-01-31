@@ -19,7 +19,7 @@
 
 ## Build Status
 
-master | 3.3.5
+master | TEST
 :------------: | :------------:
 [![master Build Status](https://travis-ci.org/TrinityCore/TrinityCore.svg?branch=master)](https://travis-ci.org/TrinityCore/TrinityCore) |
 [![master Build status](https://ci.appveyor.com/api/projects/status/54d0u1fxe50ad80o/branch/master?svg=true)](https://ci.appveyor.com/project/DDuarte/trinitycore/branch/master) |
