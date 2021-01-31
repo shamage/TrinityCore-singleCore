@@ -16,7 +16,7 @@ set(CMAKE_DISABLE_SOURCE_CHANGES ON)
 set(CMAKE_DISABLE_IN_SOURCE_BUILD ON)
 
 # Set projectname (must be done AFTER setting configurationtypes)
-project(TrinityCore)
+project(TrinityCore-singleCore)
 
 # CMake policies (can not be handled elsewhere)
 cmake_policy(SET CMP0005 NEW)
@@ -41,7 +41,7 @@ set(CMAKE_INSTALL_RPATH_USE_LINK_PATH 1)
 list(APPEND CMAKE_MODULE_PATH
   "${CMAKE_SOURCE_DIR}/cmake/macros")
 
-if (CMAKE_VERSION VERSION_LESS "3.16.0")
+if (CMAKE_VERSION VERSION_LESS "3.18.0")
   list(APPEND CMAKE_MODULE_PATH
           "${CMAKE_SOURCE_DIR}/dep/cotire/CMake")
 endif()
