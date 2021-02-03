@@ -87,7 +87,7 @@ include(cmake/genrev.cmake)
 include(cmake/showoptions.cmake)
 
 # add dependencies
-# add_subdirectory(dep)
+add_subdirectory(dep)
 
 # add core sources
-# add_subdirectory(src)
+add_subdirectory(src)
